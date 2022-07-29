@@ -1,0 +1,9 @@
+# Git will ingore following files
+
+## MacOS
+
+.DS_store
+
+## Resources
+
+resources/*
